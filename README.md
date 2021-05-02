@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<div align="center">
   
   ![fuckbookad(1)](https://user-images.githubusercontent.com/73002678/116800544-1b210380-aad0-11eb-923d-a395728679ff.png)
   
